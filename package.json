@@ -2,7 +2,7 @@
   "name": "cuaca-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://myname.github.io/myapp",
+  "homepage": "http://syahrulrmdhon.github.io/cuaca-app",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.1",
