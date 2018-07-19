@@ -1,11 +1,12 @@
 import React from 'react'
 
 class Form extends React.Component {
+
     render () {
         return (
             <form onSubmit = {this.props.getCuaca}>
-                <input name='city' placeholder='Kota'/>
-                <input name='country' placeholder='Negara'/>
+                <input className='in' name='city' type='text' placeholder='Kota'/>
+                <input className='in' name='country' type='text' placeholder='Negara'/>
                 <button>Search</button>
             </form>
         );
